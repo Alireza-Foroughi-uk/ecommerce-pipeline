@@ -30,7 +30,6 @@
 
 ## Project Structure
 
-ecommerce-pipeline/
 ├── dags/
 │   └── ecommerce_pipeline.py    # Airflow DAG
 ├── scripts/
